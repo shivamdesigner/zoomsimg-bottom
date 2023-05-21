@@ -1,2 +1,2 @@
-# zoom-imgslider-bottom
+# slider-img-zoom-bottom
  ecommerce product detail page
